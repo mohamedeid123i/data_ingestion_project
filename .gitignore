@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+.env
+.env.*
+!.env.example
+
+duckdb/*.duckdb
+*.duckdb.wal
+
+.dlt/
+.vscode/
+.DS_Store
+Thumbs.db

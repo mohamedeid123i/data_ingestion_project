@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed",
+    "age": "thirty",
+    "nationality": "Egypt",
+    "phone": "+20 123 456 7890",
+    "address": {
+      "street": "123 Main St",
+      "city": "Cairo",
+      "state": "Cairo Governorate",
+      "zip": "12345",
+      "apartment": "Apt 4B"
+    },
+    "education": {
+      "degree": "Bachelor's",
+      "major": "Computer Science",
+      "university": "Cairo University",
+      "graduation_year": 2015
+    }
+  },
+  {
+    "id": 2,
+    "name": "Sara",
+    "age": "twenty-five",
+    "nationality": "Egypt",
+    "phone": "+20 123 456 7890",
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Alexandria",
+      "state": "Alexandria Governorate",
+      "zip": "67890",
+      "apartment": "Apt 2C"
+    },
+    "email": null
+  }
+]

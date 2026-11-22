@@ -1,0 +1,44 @@
+[
+  {
+    "event_id": "evt-005",
+    "created_at": "2024-12-25T08:00:00Z",
+    "event_type": "account_created",
+    "user_id": "user-104"
+  },
+  {
+    "event_id": "evt-001",
+    "created_at": "2025-01-10T09:00:00Z",
+    "event_type": "login",
+    "user_id": "user-101"
+  },
+  {
+    "event_id": "evt-002",
+    "created_at": "2025-02-15T12:30:00Z",
+    "event_type": "purchase",
+    "user_id": "user-102"
+  },
+  {
+    "event_id": "evt-003",
+    "created_at": "2025-03-20T18:45:00Z",
+    "event_type": "logout",
+    "user_id": "user-101"
+  },
+  {
+    "event_id": "evt-004",
+    "created_at": "2025-04-10T10:15:00Z",
+    "event_type": "payment_confirmed",
+    "user_id": "user-103-updated"
+  },
+  {
+    "event_id": "evt-006",
+    "created_at": "2025-04-05T14:00:00Z",
+    "event_type": "account_deleted",
+    "user_id": "user-104"
+  },
+  {
+    "event_id": "evt-007",
+    "created_at": "2025-03-29T11:30:00Z",
+    "event_type": "password_reset",
+    "user_id": "user-105"
+  }
+]
