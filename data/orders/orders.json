@@ -1,0 +1,44 @@
+[
+  {
+    "order_id": "ORD-001",
+    "order_date": "2025-01-10",
+    "updated_at": "2025-01-10T10:00:00Z",
+    "status": "pending",
+    "amount": 350
+  },
+  {
+    "order_id": "ORD-002",
+    "order_date": "2025-01-20",
+    "updated_at": "2025-01-20T12:00:00Z",
+    "status": "created",
+    "amount": 400
+  },
+  {
+    "order_id": "ORD-003",
+    "order_date": "2025-01-25",
+    "updated_at": "2025-01-25T14:00:00Z",
+    "status": "shipped",
+    "amount": 150
+  },
+  {
+    "order_id": "ORD-003",
+    "order_date": "2025-01-30",
+    "updated_at": "2025-01-30T16:00:00Z",
+    "status": "delivered",
+    "amount": 300
+  },
+  {
+    "order_id": "ORD-004",
+    "order_date": "2025-02-05",
+    "updated_at": "2025-02-05T18:00:00Z",
+    "status": "cancelled",
+    "amount": 200
+  },
+  {
+    "order_id": "ORD-005",
+    "order_date": "2025-02-10",
+    "updated_at": "2025-02-10T20:00:00Z",
+    "status": "pending",
+    "amount": 350
+  }
+]
